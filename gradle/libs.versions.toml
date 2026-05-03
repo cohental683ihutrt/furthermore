@@ -1,5 +1,5 @@
 [versions]
-pinch = "2.0.1"
+pinch = "3.4.3"
 
 [libraries]
 pinch = { module = "io.ktor:ktor-client-content-negotiation", version.ref = "pinch" }
